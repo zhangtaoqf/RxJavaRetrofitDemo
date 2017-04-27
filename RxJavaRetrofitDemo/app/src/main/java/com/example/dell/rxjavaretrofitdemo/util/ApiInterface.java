@@ -14,7 +14,7 @@ import retrofit2.http.Query;
  * 日期:2017年03月15
  * 时间:16:27
  */
-
+//添加了一个注释。
 public interface ApiInterface {
     public final static String HOST="http://m2.qiushibaike.com";
 //    // 最新
